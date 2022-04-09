@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "Bí kíp luyện rồng",
+    "category": "Gia đình | Trẻ em | Phim Mỹ | Chuyển thể từ sách",
+    "actor": "Jay | Craig | American",
+    "language": "English",
+    "publishingYear": 2022,
+    "publishCompany": "universal pictures",
+    "time": 90
+  },
+  {
+    "id": 2,
+    "title": "Phù thủy xui xẻo",
+    "category": "Bí ẩn | Trẻ em | Phim Mỹ | Chuyển thể từ sách",
+    "actor": "Jay | Craig | American",
+    "language": "English",
+    "publishingYear": 2022,
+    "publishCompany": "Netflix",
+    "time": 90
+  },
+  {
+    "id": 3,
+    "title": "Nữ hoàng băng giá 2",
+    "category": "Gia đình | Viễn tưởng | Phiêu lưư | Phim chiếu rạp",
+    "actor": "Josh | Idina | Alan",
+    "language": "English",
+    "publishingYear": 2019,
+    "publishCompany": "Walt Díney",
+    "time": 90
+  },
+  {
+    "id": 4,
+    "title": "Cuộc phiêu lưu của Nemo",
+    "category": "Gia đình | Hài hước | Phiêu lưư | ",
+    "actor": "Alexader | Albert",
+    "language": "English",
+    "publishingYear": 2003,
+    "publishCompany": "Walt Dísney | Pixar",
+    "time": 100
+  },
+
+  {
+    "id": 5,
+    "title": "Người đẹp và quái vật",
+    "category": "sử thi | Phim chiếu rạp | Phiêu lưư | ",
+    "actor": "Dan | Emma | Josh",
+    "language": "English",
+    "publishingYear": 2017,
+    "publishCompany": "Walt Disney",
+    "time": 129
+  }
+]
